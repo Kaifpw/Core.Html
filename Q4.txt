@@ -1,0 +1,14 @@
+HTML Tags:-
+  HTML tags are keywords that tell a web browser how to format and display content on a web page.
+   HTML tags are made up of three parts: an opening tag, content, and a closing tag. HTML tags are surrounded by angle brackets.
+
+   example:- <p> I am Kaif a student of BCA</p>
+  In the above example <p> is an opening tag and </p> is a closing tag.
+
+  HTML Elemnts:-
+   An HTML element is a complete unit that includes an opening tag, content, and a closing tag. It represents a
+   distinct part of a webpage's content or structure. Elements are composed of tags and the content enclosed
+   between those tags.
+
+   Example:- <p> I am Kaif a student of BCA </p>
+    In this example <p> and </p> are tags, "I am Kaif a student of BCA" is content they all together makes HTML elemnts.

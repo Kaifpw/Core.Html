@@ -1,0 +1,11 @@
+HTML comments are used to add explanatory notes or remarks within the HTML code. 
+These comments are not displayed on the rendered webpage. 
+The main purpose of HTML comments is to let authors add explanations, reminders, and other resources to help themselves and others in the process of editing the document.
+
+HTML comments can be used to: 
+Document the code
+Make temporary changes
+Hide specific sections during development
+Leave notes about the code's functionality
+Indicate necessary changes for the future
+Temporarily disable parts of the code
